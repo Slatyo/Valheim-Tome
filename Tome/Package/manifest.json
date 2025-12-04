@@ -1,0 +1,11 @@
+{
+  "name": "Tome",
+  "author": "Slatyo",
+  "description": "Shared item and currency registry for the Valheim mod ecosystem. Provides currencies, materials, consumables, and a unified API for cross-mod item management.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Slatyo/Valheim-Tome",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.26.1"
+  ]
+}

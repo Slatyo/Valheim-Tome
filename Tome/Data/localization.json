@@ -1,0 +1,104 @@
+{
+  "English": {
+    "item_rifttoken": "Rift Token",
+    "item_rifttoken_desc": "A token of valor earned from conquering rift challenges. Used for enchanting and upgrades.",
+
+    "item_arcaneessence": "Arcane Essence",
+    "item_arcaneessence_desc": "Concentrated magical energy extracted from enchanted items. A fundamental crafting material.",
+
+    "item_voidshard": "Void Shard",
+    "item_voidshard_desc": "A fragment of pure void energy. Extremely rare and cannot pass through portals.",
+
+    "item_soulfragment": "Soul Fragment",
+    "item_soulfragment_desc": "A remnant of spiritual energy from defeated elite creatures.",
+
+    "item_enchanteddust": "Enchanted Dust",
+    "item_enchanteddust_desc": "Fine particles of magical residue. Byproduct of disenchanting items.",
+
+    "item_runeblank": "Rune Blank",
+    "item_runeblank_desc": "An uncarved runestone ready to receive magical inscriptions.",
+
+    "item_catalystcore": "Catalyst Core",
+    "item_catalystcore_desc": "A powerful magical catalyst dropped by bosses. Essential for high-tier crafting.",
+
+    "item_challengekey_t1": "Bronze Challenge Key",
+    "item_challengekey_t1_desc": "Opens Bronze-tier rift portals. Cannot be traded.",
+
+    "item_challengekey_t2": "Iron Challenge Key",
+    "item_challengekey_t2_desc": "Opens Iron-tier rift portals. Cannot be traded.",
+
+    "item_challengekey_t3": "Black Metal Challenge Key",
+    "item_challengekey_t3_desc": "Opens Black Metal-tier rift portals. Cannot be traded.",
+
+    "item_healthelixir": "Health Elixir",
+    "item_healthelixir_desc": "A powerful elixir that instantly restores a large amount of health.",
+
+    "item_staminaelixir": "Stamina Elixir",
+    "item_staminaelixir_desc": "A refreshing elixir that instantly restores a large amount of stamina.",
+
+    "item_eitrelixir": "Eitr Elixir",
+    "item_eitrelixir_desc": "A mystical elixir that instantly restores a large amount of eitr.",
+
+    "item_swiftnessscroll": "Scroll of Swiftness",
+    "item_swiftnessscroll_desc": "Reading this scroll grants increased movement speed for a short duration.",
+
+    "item_strengthscroll": "Scroll of Strength",
+    "item_strengthscroll_desc": "Reading this scroll grants increased physical damage for a short duration.",
+
+    "item_protectionscroll": "Scroll of Protection",
+    "item_protectionscroll_desc": "Reading this scroll grants increased armor for a short duration.",
+
+    "msg_cantdrop": "This item cannot be dropped"
+  },
+  "German": {
+    "item_rifttoken": "Riss-Marke",
+    "item_rifttoken_desc": "Eine Tapferkeitsmarke aus Riss-Herausforderungen. Wird für Verzauberungen und Verbesserungen verwendet.",
+
+    "item_arcaneessence": "Arkane Essenz",
+    "item_arcaneessence_desc": "Konzentrierte magische Energie aus verzauberten Gegenständen. Ein grundlegendes Handwerksmaterial.",
+
+    "item_voidshard": "Leerensplitter",
+    "item_voidshard_desc": "Ein Fragment reiner Leerenenergie. Extrem selten und kann nicht durch Portale transportiert werden.",
+
+    "item_soulfragment": "Seelenfragment",
+    "item_soulfragment_desc": "Ein Überrest spiritueller Energie von besiegten Elitekreaturen.",
+
+    "item_enchanteddust": "Verzauberter Staub",
+    "item_enchanteddust_desc": "Feine Partikel magischer Rückstände. Nebenprodukt beim Entzaubern von Gegenständen.",
+
+    "item_runeblank": "Runenrohling",
+    "item_runeblank_desc": "Ein ungeschnitzter Runenstein bereit für magische Inschriften.",
+
+    "item_catalystcore": "Katalysatorkern",
+    "item_catalystcore_desc": "Ein mächtiger magischer Katalysator von Bossen. Unverzichtbar für hochrangiges Handwerk.",
+
+    "item_challengekey_t1": "Bronze-Herausforderungsschlüssel",
+    "item_challengekey_t1_desc": "Öffnet Bronze-Stufen-Rissportale. Kann nicht gehandelt werden.",
+
+    "item_challengekey_t2": "Eisen-Herausforderungsschlüssel",
+    "item_challengekey_t2_desc": "Öffnet Eisen-Stufen-Rissportale. Kann nicht gehandelt werden.",
+
+    "item_challengekey_t3": "Schwarzmetall-Herausforderungsschlüssel",
+    "item_challengekey_t3_desc": "Öffnet Schwarzmetall-Stufen-Rissportale. Kann nicht gehandelt werden.",
+
+    "item_healthelixir": "Lebenselixier",
+    "item_healthelixir_desc": "Ein mächtiges Elixier das sofort eine große Menge Gesundheit wiederherstellt.",
+
+    "item_staminaelixir": "Ausdauerelixier",
+    "item_staminaelixir_desc": "Ein erfrischendes Elixier das sofort eine große Menge Ausdauer wiederherstellt.",
+
+    "item_eitrelixir": "Eitr-Elixier",
+    "item_eitrelixir_desc": "Ein mystisches Elixier das sofort eine große Menge Eitr wiederherstellt.",
+
+    "item_swiftnessscroll": "Schriftrolle der Schnelligkeit",
+    "item_swiftnessscroll_desc": "Das Lesen dieser Schriftrolle gewährt erhöhte Bewegungsgeschwindigkeit für kurze Zeit.",
+
+    "item_strengthscroll": "Schriftrolle der Stärke",
+    "item_strengthscroll_desc": "Das Lesen dieser Schriftrolle gewährt erhöhten physischen Schaden für kurze Zeit.",
+
+    "item_protectionscroll": "Schriftrolle des Schutzes",
+    "item_protectionscroll_desc": "Das Lesen dieser Schriftrolle gewährt erhöhte Rüstung für kurze Zeit.",
+
+    "msg_cantdrop": "Dieser Gegenstand kann nicht abgelegt werden"
+  }
+}

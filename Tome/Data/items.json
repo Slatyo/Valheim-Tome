@@ -1,0 +1,235 @@
+{
+  "Items": [
+    {
+      "PrefabName": "RiftToken",
+      "DisplayName": "$item_rifttoken",
+      "Description": "$item_rifttoken_desc",
+      "Category": "Currency",
+      "MaxStack": 999,
+      "Weight": 0.1,
+      "Tradeable": true,
+      "Value": 10,
+      "Teleportable": true,
+      "Flags": [],
+      "_comment": "To use custom assets, add: Bundle, BundlePrefab, BundleIcon, or Icon"
+    },
+    {
+      "PrefabName": "ArcaneEssence",
+      "DisplayName": "$item_arcaneessence",
+      "Description": "$item_arcaneessence_desc",
+      "Category": "CraftingMaterial",
+      "MaxStack": 100,
+      "Weight": 0.5,
+      "Tradeable": true,
+      "Value": 25,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "VoidShard",
+      "DisplayName": "$item_voidshard",
+      "Description": "$item_voidshard_desc",
+      "Category": "CraftingMaterial",
+      "MaxStack": 50,
+      "Weight": 1.0,
+      "Tradeable": true,
+      "Value": 100,
+      "Teleportable": false
+    },
+    {
+      "PrefabName": "SoulFragment",
+      "DisplayName": "$item_soulfragment",
+      "Description": "$item_soulfragment_desc",
+      "Category": "CraftingMaterial",
+      "MaxStack": 100,
+      "Weight": 0.2,
+      "Tradeable": true,
+      "Value": 50,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "EnchantedDust",
+      "DisplayName": "$item_enchanteddust",
+      "Description": "$item_enchanteddust_desc",
+      "Category": "CraftingMaterial",
+      "MaxStack": 200,
+      "Weight": 0.1,
+      "Tradeable": true,
+      "Value": 5,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "RuneBlank",
+      "DisplayName": "$item_runeblank",
+      "Description": "$item_runeblank_desc",
+      "Category": "Rune",
+      "MaxStack": 50,
+      "Weight": 0.5,
+      "Tradeable": true,
+      "Value": 20,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "CatalystCore",
+      "DisplayName": "$item_catalystcore",
+      "Description": "$item_catalystcore_desc",
+      "Category": "CraftingMaterial",
+      "MaxStack": 20,
+      "Weight": 2.0,
+      "Tradeable": true,
+      "Value": 200,
+      "Teleportable": false
+    },
+    {
+      "PrefabName": "ChallengeKey_T1",
+      "DisplayName": "$item_challengekey_t1",
+      "Description": "$item_challengekey_t1_desc",
+      "Category": "Token",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": false,
+      "Value": 0,
+      "Teleportable": true,
+      "Flags": ["NoTrade"]
+    },
+    {
+      "PrefabName": "ChallengeKey_T2",
+      "DisplayName": "$item_challengekey_t2",
+      "Description": "$item_challengekey_t2_desc",
+      "Category": "Token",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": false,
+      "Value": 0,
+      "Teleportable": true,
+      "Flags": ["NoTrade"]
+    },
+    {
+      "PrefabName": "ChallengeKey_T3",
+      "DisplayName": "$item_challengekey_t3",
+      "Description": "$item_challengekey_t3_desc",
+      "Category": "Token",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": false,
+      "Value": 0,
+      "Teleportable": true,
+      "Flags": ["NoTrade"]
+    },
+    {
+      "PrefabName": "HealthElixir",
+      "DisplayName": "$item_healthelixir",
+      "Description": "$item_healthelixir_desc",
+      "Category": "Consumable",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "InstantHeal_Large",
+      "Value": 50,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "StaminaElixir",
+      "DisplayName": "$item_staminaelixir",
+      "Description": "$item_staminaelixir_desc",
+      "Category": "Consumable",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "RestoreStamina_Large",
+      "Value": 50,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "EitrElixir",
+      "DisplayName": "$item_eitrelixir",
+      "Description": "$item_eitrelixir_desc",
+      "Category": "Consumable",
+      "MaxStack": 10,
+      "Weight": 0.5,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "RestoreEitr_Large",
+      "Value": 75,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "SwiftnessScroll",
+      "DisplayName": "$item_swiftnessscroll",
+      "Description": "$item_swiftnessscroll_desc",
+      "Category": "Scroll",
+      "MaxStack": 5,
+      "Weight": 0.2,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "SpeedBuff",
+      "Value": 100,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "StrengthScroll",
+      "DisplayName": "$item_strengthscroll",
+      "Description": "$item_strengthscroll_desc",
+      "Category": "Scroll",
+      "MaxStack": 5,
+      "Weight": 0.2,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "StrengthBuff",
+      "Value": 100,
+      "Teleportable": true
+    },
+    {
+      "PrefabName": "ProtectionScroll",
+      "DisplayName": "$item_protectionscroll",
+      "Description": "$item_protectionscroll_desc",
+      "Category": "Scroll",
+      "MaxStack": 5,
+      "Weight": 0.2,
+      "Tradeable": true,
+      "Consumable": true,
+      "OnUseAbility": "ArmorBuff",
+      "Value": 100,
+      "Teleportable": true
+    }
+  ],
+
+  "_schema": {
+    "_description": "Schema reference for item definitions",
+    "PrefabName": "string - Unique item identifier (required)",
+    "DisplayName": "string - Localization key for name (e.g. $item_myitem)",
+    "Description": "string - Localization key for description",
+    "Category": "string - Currency|CraftingMaterial|Consumable|Rune|Scroll|Token|Trophy|QuestItem|Misc",
+    "MaxStack": "int - Maximum stack size (default: 1)",
+    "Weight": "float - Weight per unit (default: 1.0)",
+    "Tradeable": "bool - Can be traded (default: true)",
+    "Value": "int - Trade/sell value (default: 0)",
+    "Teleportable": "bool - Can go through portals (default: true)",
+    "Consumable": "bool - Is consumable item (default: false)",
+    "OnUseAbility": "string - Prime ability ID to trigger on consume",
+    "CloneFrom": "string - Vanilla item to clone model from",
+    "Flags": "array - ItemFlags: NoDrop|NoTrade|NoDestroy|QuestItem",
+
+    "_assetBundle": {
+      "Bundle": "string - AssetBundle name (e.g. 'tome_assets')",
+      "BundlePrefab": "string - Prefab name in bundle (defaults to PrefabName)",
+      "BundleIcon": "string - Icon sprite/texture name in bundle"
+    },
+
+    "_icons": {
+      "Icon": "string - Icon source. Can be: filename.png (external), bundle:sprite (from bundle)"
+    },
+
+    "_example_with_bundle": {
+      "PrefabName": "CustomToken",
+      "DisplayName": "$item_customtoken",
+      "Description": "$item_customtoken_desc",
+      "Category": "Currency",
+      "Bundle": "my_assets",
+      "BundlePrefab": "CustomToken_Prefab",
+      "BundleIcon": "CustomToken_Icon",
+      "MaxStack": 999
+    }
+  }
+}

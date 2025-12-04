@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# C# source files
+*.cs text diff=csharp
+
+# Unity files
+*.meta text
+*.unity text
+*.prefab text
+*.mat text
+*.anim text
+*.controller text
+
+# Binary files
+*.dll binary
+*.exe binary
+*.pdb binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.asset binary
