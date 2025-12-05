@@ -19,12 +19,12 @@ namespace Tome
     /// </summary>
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     [BepInDependency(Jotunn.Main.ModGuid)]
-    [BepInDependency("com.prime.valheim", BepInDependency.DependencyFlags.SoftDependency)]
+    [BepInDependency("com.slatyo.prime", BepInDependency.DependencyFlags.SoftDependency)]
     [NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Minor)]
     public class Plugin : BaseUnityPlugin
     {
         /// <summary>Plugin GUID for BepInEx.</summary>
-        public const string PluginGUID = "com.tome.valheim";
+        public const string PluginGUID = "com.slatyo.tome";
         /// <summary>Plugin display name.</summary>
         public const string PluginName = "Tome";
         /// <summary>Plugin version.</summary>
